@@ -28,6 +28,13 @@ with open('data/result_filter.json', 'r') as f:
     for line in f:
         filtered_data = json.loads(line)
 ```
+## Visulise the adsotption sites and predicted adsorption energy
+```python
+from utlis.structure import show_adsoprtion_site
+show_adsoprtion_site(filtered_data, 'Ac2Mg','100','1','H1.vasp')
+>>> The predicted H adsorption energy on this site is:-0.11 eV
+```
+![](figure/ads_position.png)
 
 
 # References
