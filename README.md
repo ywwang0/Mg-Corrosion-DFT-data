@@ -4,14 +4,14 @@ This is a Mg corrosion related dataabse, which include arouond 100k different H 
 
 # Table of Contents
 
-- [Download the dataset and code](#Download the dataset and code)
-- [Use the code](#Use the code)
+- [Download](#Download)
+- [Use the code](#Use-the-code)
 - [References](#reference)
 - [Acknowledgement](#Acknowledgement)
 
-# Download the dataset and code
+# Download
 
-# Use the code
+# Using
 
 # References
 
