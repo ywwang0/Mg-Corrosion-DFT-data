@@ -12,6 +12,7 @@ This is a Mg corrosion related dataabse, which include arouond 100k different H 
 
 # Database
 Their is the sub databbase in the data directory. The full dataset (around 1.33 GB) is avalable at [Here](https://drive.google.com/file/d/12ixEDfre9fCH5Bzj6DQJ7tNa1DR2zNsL/view?usp=sharing). The structure of the database is
+![](figure/ads_positioon.png)
 
 
 
