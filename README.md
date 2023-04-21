@@ -21,6 +21,14 @@ git clone https://github.com/ywwang0/Mg-Corrosion-DFT-data.git
 ```
 
 # Using
+## Load the data set
+```python
+import json
+with open('data/result_filter.json', 'r') as f:
+    for line in f:
+        filtered_data = json.loads(line)
+```
+
 
 # References
 Accelerated discovery of magnesium intermetallic compounds with sluggish corrosion cathodic reactions through active learning and DFT calculations
