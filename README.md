@@ -36,7 +36,19 @@ show_adsoprtion_site(filtered_data, 'Ac2Mg','100','1','H1.vasp')
 >>> The predicted H adsorption energy on this site is:-0.11 eV
 ```
 ![](figure/ads_position.png)
+## Save the structure you are interested in
+```python
+from utlis.structure import save_structure
+adsorption_structure = save_structure(filtered_data, "Mg2Ge", "100", "1", "H1.vasp")
+```
 
+## Predict the H adsorption energy for a new adsorption structure
+```python
+from utlis.ActiveLearningPred import predict
+predict('Mg2Ge_100_1_H1.vasp')
+
+>>> The predicted H adsorption energy for the input adsorption strucutre is: 0.55 eV
+```
 
 # References
 Accelerated discovery of magnesium intermetallic compounds with sluggish corrosion cathodic reactions through active learning and DFT calculations
