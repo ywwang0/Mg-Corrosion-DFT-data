@@ -15,11 +15,10 @@ Their is the sub databbase in the data directory. The full dataset (around 1.33 
 ![](figure/data_structure.jpg)
 
 
-
-
-
 # Download
-
+```bash
+pip install protobuf==3.20.0 pymatgen ase cython
+```
 
 
 # Using
