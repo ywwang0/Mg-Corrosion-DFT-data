@@ -11,7 +11,7 @@ This is a Mg corrosion related database, which include arouond 100k different H 
 - [Acknowledgement](#Acknowledgement)
 
 # Database
-Their is the sub databbase in the 'data' directory. The full dataset (around 1.33 GB) is avalable at [Here](https://drive.google.com/file/d/12ixEDfre9fCH5Bzj6DQJ7tNa1DR2zNsL/view?usp=sharing). The structure of the database is
+Their is the sub databbase in the 'data' directory. Due to the size limit for file uploads on GitHub, the complete dataset (around 1.33 GB) can be downloaded on Google Drive, which is avalable at [Here](https://drive.google.com/file/d/12ixEDfre9fCH5Bzj6DQJ7tNa1DR2zNsL/view?usp=sharing). The structure of the database is
 ![](figure/data_structure.jpg)
 
 
