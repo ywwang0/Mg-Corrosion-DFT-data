@@ -21,7 +21,7 @@ If you want to download this repository, please use following command.
 git clone https://github.com/ywwang0/Mg-Corrosion-DFT-data.git
 ```
 
-# Using
+# Using the dataset
 ## Load the data set
 ```python
 import json
